@@ -2,7 +2,8 @@
 WPseku = wordpress security scanner
 we can find vulnerabilities in wordpress sites
 this is very usefull tool  installation :  
-@Haxor Ghost Cyber
+@Haxor Ghost Cyber.
+
 $ apt update   
 $ apt upgrade  
 $ apt install git  
