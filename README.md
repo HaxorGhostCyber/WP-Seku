@@ -9,7 +9,7 @@ $ apt upgrade
 $ apt install git  
 $ apt install python2  
 $ apt install python  
-$ git clone https://github.com/HaxorGhostCyber/WP-Seku/tree/master  
+$ git clone https://github.com/HaxorGhostCyber/WP-Seku  
 $ cd WPSeku  
 $ chmod +x *  
 $ pip install -r requirements.txt  
