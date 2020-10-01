@@ -3,7 +3,6 @@ WPseku = wordpress security scanner
 we can find vulnerabilities in wordpress sites
 this is very usefull tool  installation :  
 @Haxor Ghost Cyber.
-
 $ apt update   
 $ apt upgrade  
 $ apt install git  
@@ -15,4 +14,6 @@ $ chmod +x *
 $ pip install -r requirements.txt  
 usage :  python wpseku.py  here all options are present to use this tool  
 example :  
-$ python wpseku.py --url http:target.com
+$ python wpseku.py --url http:target.com 
+
+$ Tested machines are kali linux and parrot os and ubuntu as well
